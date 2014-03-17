@@ -101,8 +101,11 @@ p{margin:20px 0px 20px 0px;}
 .lorem{width:80%;padding-top:15%;margin:0 auto;}
 
 
+.hide-row{display: block}
 
 @media(max-width:767px){
+    
+  .hide-row{display:none}  
     
 .fricko-cream{
     width:150px;
