@@ -103,6 +103,10 @@ p{margin:20px 0px 20px 0px;}
 
 
 @media(max-width:767px){
+    
+.fricko-cream{
+    width:150px;
+}    
 
 .pointcol{
     margin-top:10%;
