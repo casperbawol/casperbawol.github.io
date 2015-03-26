@@ -2,10 +2,8 @@ p{margin:20px 0px 20px 0px;}
 
 [class*='fricol-']{
  background-color: #fff;
-    border-radius: 3px;
+    border-radius: 6px;
     border: 2px solid #6fd8a2;
-  
-   
 }
 
 .no-style{      
@@ -20,13 +18,19 @@ p{margin:20px 0px 20px 0px;}
 
 .fricko-cream{
     
-    width:200px;
+    width:400px;
     
 }
 
 .main-panel {
- background-image: url(bg.jpg);
+ background-color: #936bc0;
     background-repeat: repeat;
+    font-weight: 300;
+}
+
+h1{
+    font-weight: 300;
+    
 }
 
 .scroll-down{
@@ -57,6 +61,8 @@ p{margin:20px 0px 20px 0px;}
     
 }
 
+
+
 .hide{opacity:0;}
 
 .header {
@@ -85,7 +91,6 @@ p{margin:20px 0px 20px 0px;}
 
 
 .doc-panel{
-    background-image: 
     background-repeat: repeat;
     padding-bottom:10%;    
 }
