@@ -1,4 +1,7 @@
-Fricko reposnive grid layout
+#Fricko reposnive grid layout
 =====================
 
-<p>12 column responsive grid layout for easy prototyping</p>
+12 column responsive grid layout for easy prototyping
+
+#Demo
+http://casperbawol.github.io/
